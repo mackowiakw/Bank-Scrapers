@@ -1,0 +1,491 @@
+[
+	{
+		"timeStamp": 1663061934000,
+		"items": [
+			{
+				"country": "EUGiW",
+				"symbol": "978/EUR",
+				"currency": "EUR (1)",
+				"foreignExchangeBuy": 4.5471000000,
+				"foreignExchangeSale": 4.8283000000,
+				"moneyBuy": 4.5190000000,
+				"moneySale": 4.8565000000,
+				"companyDevisesBuy": 4.5700000000,
+				"companyDevisesSale": 4.8526000000
+			},
+			{
+				"country": "Szwajcaria",
+				"symbol": "797/CHF",
+				"currency": "CHF (1)",
+				"foreignExchangeBuy": 4.7918000000,
+				"foreignExchangeSale": 5.0956000000,
+				"moneyBuy": 4.7631000000,
+				"moneySale": 5.1252000000,
+				"companyDevisesBuy": 4.6975000000,
+				"companyDevisesSale": 4.9881000000
+			},
+			{
+				"country": "USA",
+				"symbol": "787/USD",
+				"currency": "USD (1)",
+				"foreignExchangeBuy": 4.4852000000,
+				"foreignExchangeSale": 4.7626000000,
+				"moneyBuy": 4.4574000000,
+				"moneySale": 4.7904000000,
+				"companyDevisesBuy": 4.4838000000,
+				"companyDevisesSale": 4.7612000000
+			},
+			{
+				"country": "Wielka Brytania",
+				"symbol": "789/GBP",
+				"currency": "GBP (1)",
+				"foreignExchangeBuy": 5.2368000000,
+				"foreignExchangeSale": 5.5887000000,
+				"moneyBuy": 5.2043000000,
+				"moneySale": 5.6211000000,
+				"companyDevisesBuy": 5.2423000000,
+				"companyDevisesSale": 5.5665000000
+			},
+			{
+				"country": "Australia",
+				"symbol": "781/AUD",
+				"currency": "AUD (1)",
+				"foreignExchangeBuy": 3.0779000000,
+				"foreignExchangeSale": 3.2846000000,
+				"moneyBuy": 3.0588000000,
+				"moneySale": 3.3037000000,
+				"companyDevisesBuy": 3.0864000000,
+				"companyDevisesSale": 3.2774000000
+			},
+			{
+				"country": "Chiny",
+				"symbol": "613/CNY",
+				"currency": "CNY (1)",
+				"foreignExchangeBuy": 0.6476000000,
+				"foreignExchangeSale": 0.6877000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.6474000000,
+				"companyDevisesSale": 0.6874000000
+			},
+			{
+				"country": "Czechy",
+				"symbol": "213/CZK",
+				"currency": "CZK (1)",
+				"foreignExchangeBuy": 0.1850000000,
+				"foreignExchangeSale": 0.1974000000,
+				"moneyBuy": 0.1838000000,
+				"moneySale": 0.1985000000,
+				"companyDevisesBuy": 0.1860000000,
+				"companyDevisesSale": 0.1976000000
+			},
+			{
+				"country": "Dania",
+				"symbol": "792/DKK",
+				"currency": "DKK (1)",
+				"foreignExchangeBuy": 0.6101000000,
+				"foreignExchangeSale": 0.6511000000,
+				"moneyBuy": 0.6063000000,
+				"moneySale": 0.6549000000,
+				"companyDevisesBuy": 0.6145000000,
+				"companyDevisesSale": 0.6525000000
+			},
+			{
+				"country": "Japonia",
+				"symbol": "784/JPY",
+				"currency": "JPY (1)",
+				"foreignExchangeBuy": 0.0314580000,
+				"foreignExchangeSale": 0.0335710000,
+				"moneyBuy": 0.0312630000,
+				"moneySale": 0.0337660000,
+				"companyDevisesBuy": 0.0314230000,
+				"companyDevisesSale": 0.0333670000
+			},
+			{
+				"country": "Kanada",
+				"symbol": "788/CAD",
+				"currency": "CAD (1)",
+				"foreignExchangeBuy": 3.4473000000,
+				"foreignExchangeSale": 3.6790000000,
+				"moneyBuy": 3.4260000000,
+				"moneySale": 3.7003000000,
+				"companyDevisesBuy": 3.4541000000,
+				"companyDevisesSale": 3.6677000000
+			},
+			{
+				"country": "Norwegia",
+				"symbol": "796/NOK",
+				"currency": "NOK (1)",
+				"foreignExchangeBuy": 0.4549000000,
+				"foreignExchangeSale": 0.4855000000,
+				"moneyBuy": 0.4521000000,
+				"moneySale": 0.4883000000,
+				"companyDevisesBuy": 0.4582000000,
+				"companyDevisesSale": 0.4866000000
+			},
+			{
+				"country": "Rumunia",
+				"symbol": "206/RON",
+				"currency": "RON (1)",
+				"foreignExchangeBuy": 0.9236000000,
+				"foreignExchangeSale": 0.9857000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0931800000,
+				"companyDevisesSale": 0.0989400000
+			},
+			{
+				"country": "Szwecja",
+				"symbol": "798/SEK",
+				"currency": "SEK (1)",
+				"foreignExchangeBuy": 0.4274000000,
+				"foreignExchangeSale": 0.4561000000,
+				"moneyBuy": 0.4247000000,
+				"moneySale": 0.4587000000,
+				"companyDevisesBuy": 0.4292000000,
+				"companyDevisesSale": 0.4558000000
+			},
+			{
+				"country": "Węgry",
+				"symbol": "207/HUF",
+				"currency": "HUF (1)",
+				"foreignExchangeBuy": 0.0114450000,
+				"foreignExchangeSale": 0.0122140000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0115620000,
+				"companyDevisesSale": 0.0122780000
+			}
+		],
+		"chh": {
+			"foreignExchangeBuy": 4.8428000000,
+			"foreignExchangeSale": 4.8428000000
+		}
+	},
+	{
+		"timeStamp": 1663051981000,
+		"items": [
+			{
+				"country": "EUGiW",
+				"symbol": "978/EUR",
+				"currency": "EUR (1)",
+				"foreignExchangeBuy": 4.5471000000,
+				"foreignExchangeSale": 4.8283000000,
+				"moneyBuy": 4.5190000000,
+				"moneySale": 4.8565000000,
+				"companyDevisesBuy": 4.5700000000,
+				"companyDevisesSale": 4.8526000000
+			},
+			{
+				"country": "Szwajcaria",
+				"symbol": "797/CHF",
+				"currency": "CHF (1)",
+				"foreignExchangeBuy": 4.7918000000,
+				"foreignExchangeSale": 5.0956000000,
+				"moneyBuy": 4.7631000000,
+				"moneySale": 5.1252000000,
+				"companyDevisesBuy": 4.6975000000,
+				"companyDevisesSale": 4.9881000000
+			},
+			{
+				"country": "USA",
+				"symbol": "787/USD",
+				"currency": "USD (1)",
+				"foreignExchangeBuy": 4.4852000000,
+				"foreignExchangeSale": 4.7626000000,
+				"moneyBuy": 4.4574000000,
+				"moneySale": 4.7904000000,
+				"companyDevisesBuy": 4.4838000000,
+				"companyDevisesSale": 4.7612000000
+			},
+			{
+				"country": "Wielka Brytania",
+				"symbol": "789/GBP",
+				"currency": "GBP (1)",
+				"foreignExchangeBuy": 5.2368000000,
+				"foreignExchangeSale": 5.5887000000,
+				"moneyBuy": 5.2043000000,
+				"moneySale": 5.6211000000,
+				"companyDevisesBuy": 5.2423000000,
+				"companyDevisesSale": 5.5665000000
+			},
+			{
+				"country": "Australia",
+				"symbol": "781/AUD",
+				"currency": "AUD (1)",
+				"foreignExchangeBuy": 3.0779000000,
+				"foreignExchangeSale": 3.2846000000,
+				"moneyBuy": 3.0588000000,
+				"moneySale": 3.3037000000,
+				"companyDevisesBuy": 3.0864000000,
+				"companyDevisesSale": 3.2774000000
+			},
+			{
+				"country": "Chiny",
+				"symbol": "613/CNY",
+				"currency": "CNY (1)",
+				"foreignExchangeBuy": 0.6476000000,
+				"foreignExchangeSale": 0.6877000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.6474000000,
+				"companyDevisesSale": 0.6874000000
+			},
+			{
+				"country": "Czechy",
+				"symbol": "213/CZK",
+				"currency": "CZK (1)",
+				"foreignExchangeBuy": 0.1850000000,
+				"foreignExchangeSale": 0.1974000000,
+				"moneyBuy": 0.1838000000,
+				"moneySale": 0.1985000000,
+				"companyDevisesBuy": 0.1860000000,
+				"companyDevisesSale": 0.1976000000
+			},
+			{
+				"country": "Dania",
+				"symbol": "792/DKK",
+				"currency": "DKK (1)",
+				"foreignExchangeBuy": 0.6101000000,
+				"foreignExchangeSale": 0.6511000000,
+				"moneyBuy": 0.6063000000,
+				"moneySale": 0.6549000000,
+				"companyDevisesBuy": 0.6145000000,
+				"companyDevisesSale": 0.6525000000
+			},
+			{
+				"country": "Japonia",
+				"symbol": "784/JPY",
+				"currency": "JPY (1)",
+				"foreignExchangeBuy": 0.0314580000,
+				"foreignExchangeSale": 0.0335710000,
+				"moneyBuy": 0.0312630000,
+				"moneySale": 0.0337660000,
+				"companyDevisesBuy": 0.0314230000,
+				"companyDevisesSale": 0.0333670000
+			},
+			{
+				"country": "Kanada",
+				"symbol": "788/CAD",
+				"currency": "CAD (1)",
+				"foreignExchangeBuy": 3.4473000000,
+				"foreignExchangeSale": 3.6790000000,
+				"moneyBuy": 3.4260000000,
+				"moneySale": 3.7003000000,
+				"companyDevisesBuy": 3.4541000000,
+				"companyDevisesSale": 3.6677000000
+			},
+			{
+				"country": "Norwegia",
+				"symbol": "796/NOK",
+				"currency": "NOK (1)",
+				"foreignExchangeBuy": 0.4549000000,
+				"foreignExchangeSale": 0.4855000000,
+				"moneyBuy": 0.4521000000,
+				"moneySale": 0.4883000000,
+				"companyDevisesBuy": 0.4582000000,
+				"companyDevisesSale": 0.4866000000
+			},
+			{
+				"country": "Rumunia",
+				"symbol": "206/RON",
+				"currency": "RON (1)",
+				"foreignExchangeBuy": 0.9236000000,
+				"foreignExchangeSale": 0.9857000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0931800000,
+				"companyDevisesSale": 0.0989400000
+			},
+			{
+				"country": "Szwecja",
+				"symbol": "798/SEK",
+				"currency": "SEK (1)",
+				"foreignExchangeBuy": 0.4274000000,
+				"foreignExchangeSale": 0.4561000000,
+				"moneyBuy": 0.4247000000,
+				"moneySale": 0.4587000000,
+				"companyDevisesBuy": 0.4292000000,
+				"companyDevisesSale": 0.4558000000
+			},
+			{
+				"country": "Węgry",
+				"symbol": "207/HUF",
+				"currency": "HUF (1)",
+				"foreignExchangeBuy": 0.0114450000,
+				"foreignExchangeSale": 0.0122140000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0115620000,
+				"companyDevisesSale": 0.0122780000
+			}
+		],
+		"chh": {
+			"foreignExchangeBuy": 4.8428000000,
+			"foreignExchangeSale": 4.8428000000
+		}
+	},
+	{
+		"timeStamp": 1663074085000,
+		"items": [
+			{
+				"country": "EUGiW",
+				"symbol": "978/EUR",
+				"currency": "EUR (1)",
+				"foreignExchangeBuy": 4.5706000000,
+				"foreignExchangeSale": 4.8533000000,
+				"moneyBuy": 4.5423000000,
+				"moneySale": 4.8816000000,
+				"companyDevisesBuy": 4.5700000000,
+				"companyDevisesSale": 4.8526000000
+			},
+			{
+				"country": "Szwajcaria",
+				"symbol": "797/CHF",
+				"currency": "CHF (1)",
+				"foreignExchangeBuy": 4.8241000000,
+				"foreignExchangeSale": 5.1300000000,
+				"moneyBuy": 4.7953000000,
+				"moneySale": 5.1598000000,
+				"companyDevisesBuy": 4.6975000000,
+				"companyDevisesSale": 4.9881000000
+			},
+			{
+				"country": "USA",
+				"symbol": "787/USD",
+				"currency": "USD (1)",
+				"foreignExchangeBuy": 4.5506000000,
+				"foreignExchangeSale": 4.8320000000,
+				"moneyBuy": 4.5224000000,
+				"moneySale": 4.8602000000,
+				"companyDevisesBuy": 4.4838000000,
+				"companyDevisesSale": 4.7612000000
+			},
+			{
+				"country": "Wielka Brytania",
+				"symbol": "789/GBP",
+				"currency": "GBP (1)",
+				"foreignExchangeBuy": 5.2514000000,
+				"foreignExchangeSale": 5.6042000000,
+				"moneyBuy": 5.2189000000,
+				"moneySale": 5.6368000000,
+				"companyDevisesBuy": 5.2423000000,
+				"companyDevisesSale": 5.5665000000
+			},
+			{
+				"country": "Australia",
+				"symbol": "781/AUD",
+				"currency": "AUD (1)",
+				"foreignExchangeBuy": 3.0864000000,
+				"foreignExchangeSale": 3.2938000000,
+				"moneyBuy": 3.0673000000,
+				"moneySale": 3.3129000000,
+				"companyDevisesBuy": 3.0864000000,
+				"companyDevisesSale": 3.2774000000
+			},
+			{
+				"country": "Chiny",
+				"symbol": "613/CNY",
+				"currency": "CNY (1)",
+				"foreignExchangeBuy": 0.6534000000,
+				"foreignExchangeSale": 0.6938000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.6474000000,
+				"companyDevisesSale": 0.6874000000
+			},
+			{
+				"country": "Czechy",
+				"symbol": "213/CZK",
+				"currency": "CZK (1)",
+				"foreignExchangeBuy": 0.1857000000,
+				"foreignExchangeSale": 0.1981000000,
+				"moneyBuy": 0.1845000000,
+				"moneySale": 0.1993000000,
+				"companyDevisesBuy": 0.1860000000,
+				"companyDevisesSale": 0.1976000000
+			},
+			{
+				"country": "Dania",
+				"symbol": "792/DKK",
+				"currency": "DKK (1)",
+				"foreignExchangeBuy": 0.6132000000,
+				"foreignExchangeSale": 0.6544000000,
+				"moneyBuy": 0.6094000000,
+				"moneySale": 0.6582000000,
+				"companyDevisesBuy": 0.6145000000,
+				"companyDevisesSale": 0.6525000000
+			},
+			{
+				"country": "Japonia",
+				"symbol": "784/JPY",
+				"currency": "JPY (1)",
+				"foreignExchangeBuy": 0.0314870000,
+				"foreignExchangeSale": 0.0336020000,
+				"moneyBuy": 0.0312920000,
+				"moneySale": 0.0337980000,
+				"companyDevisesBuy": 0.0314230000,
+				"companyDevisesSale": 0.0333670000
+			},
+			{
+				"country": "Kanada",
+				"symbol": "788/CAD",
+				"currency": "CAD (1)",
+				"foreignExchangeBuy": 3.4751000000,
+				"foreignExchangeSale": 3.7086000000,
+				"moneyBuy": 3.4536000000,
+				"moneySale": 3.7301000000,
+				"companyDevisesBuy": 3.4541000000,
+				"companyDevisesSale": 3.6677000000
+			},
+			{
+				"country": "Norwegia",
+				"symbol": "796/NOK",
+				"currency": "NOK (1)",
+				"foreignExchangeBuy": 0.4542000000,
+				"foreignExchangeSale": 0.4847000000,
+				"moneyBuy": 0.4514000000,
+				"moneySale": 0.4876000000,
+				"companyDevisesBuy": 0.4582000000,
+				"companyDevisesSale": 0.4866000000
+			},
+			{
+				"country": "Rumunia",
+				"symbol": "206/RON",
+				"currency": "RON (1)",
+				"foreignExchangeBuy": 0.9273000000,
+				"foreignExchangeSale": 0.9896000000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0931800000,
+				"companyDevisesSale": 0.0989400000
+			},
+			{
+				"country": "Szwecja",
+				"symbol": "798/SEK",
+				"currency": "SEK (1)",
+				"foreignExchangeBuy": 0.4288000000,
+				"foreignExchangeSale": 0.4576000000,
+				"moneyBuy": 0.4262000000,
+				"moneySale": 0.4603000000,
+				"companyDevisesBuy": 0.4292000000,
+				"companyDevisesSale": 0.4558000000
+			},
+			{
+				"country": "Węgry",
+				"symbol": "207/HUF",
+				"currency": "HUF (1)",
+				"foreignExchangeBuy": 0.0115060000,
+				"foreignExchangeSale": 0.0122790000,
+				"moneyBuy": 0E-10,
+				"moneySale": 0E-10,
+				"companyDevisesBuy": 0.0115620000,
+				"companyDevisesSale": 0.0122780000
+			}
+		],
+		"chh": {
+			"foreignExchangeBuy": 4.8428000000,
+			"foreignExchangeSale": 4.8428000000
+		}
+	}
+]

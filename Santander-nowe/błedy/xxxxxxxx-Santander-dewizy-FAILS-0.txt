@@ -1,0 +1,75 @@
+2015-01-06	No course entries on this day
+2015-04-06	No course entries on this day
+2015-05-01	No course entries on this day
+2015-05-25	Failed to fetch the resource: HTTP 500
+2015-06-04	No course entries on this day
+2015-11-11	No course entries on this day
+2015-12-23	Probably no course entries on this day. Try again if not freeday
+2015-12-25	No course entries on this day
+2016-01-06	No course entries on this day
+2016-03-28	No course entries on this day
+2016-05-03	No course entries on this day
+2016-05-26	No course entries on this day
+2016-08-15	No course entries on this day
+2016-11-01	No course entries on this day
+2016-11-11	No course entries on this day
+2016-11-25	Failed to fetch the resource: HTTP 500
+2016-12-26	No course entries on this day
+2017-01-06	No course entries on this day
+2017-01-27	Probably no course entries on this day. Try again if not freeday
+2017-04-17	No course entries on this day
+2017-05-01	No course entries on this day
+2017-05-03	No course entries on this day
+2017-06-15	No course entries on this day
+2017-08-15	No course entries on this day
+2017-11-01	No course entries on this day
+2017-11-13	Probably no course entries on this day. Try again if not freeday
+2017-12-25	No course entries on this day
+2017-12-26	No course entries on this day
+2018-01-26	Failed to fetch the resource: HTTP 500
+2018-04-02	No course entries on this day
+2018-04-11	Failed to fetch the resource: HTTP 500
+2018-05-01	No course entries on this day
+2018-05-03	No course entries on this day
+2018-05-31	No course entries on this day
+2018-07-04	Probably no course entries on this day. Try again if not freeday
+2018-08-15	No course entries on this day
+2018-11-01	No course entries on this day
+2018-12-25	No course entries on this day
+2018-12-26	No course entries on this day
+2019-02-12	Failed to fetch the resource: HTTP 500
+2019-03-25	Probably no course entries on this day. Try again if not freeday
+2019-04-22	No course entries on this day
+2019-05-01	No course entries on this day
+2019-05-03	No course entries on this day
+2019-06-20	No course entries on this day
+2019-08-15	No course entries on this day
+2019-11-01	No course entries on this day
+2019-11-11	No course entries on this day
+2019-12-25	No course entries on this day
+2019-12-26	No course entries on this day
+2020-01-06	No course entries on this day
+2020-04-13	No course entries on this day
+2020-05-01	No course entries on this day
+2020-06-11	No course entries on this day
+2020-06-18	Probably no course entries on this day. Try again if not freeday
+2020-06-25	Probably no course entries on this day. Try again if not freeday
+2020-11-02	Failed to fetch the resource: HTTP 500
+2020-11-11	No course entries on this day
+2020-12-25	No course entries on this day
+2021-01-06	No course entries on this day
+2021-04-05	No course entries on this day
+2021-05-03	No course entries on this day
+2021-06-03	No course entries on this day
+2021-11-01	No course entries on this day
+2021-11-11	No course entries on this day
+2022-01-06	No course entries on this day
+2022-04-18	No course entries on this day
+2022-05-03	No course entries on this day
+2022-06-16	No course entries on this day
+2022-08-15	No course entries on this day
+2022-11-01	No course entries on this day
+2022-11-11	No course entries on this day
+2022-11-17	Failed to fetch the resource: HTTP 500
+2022-11-29	Probably no course entries on this day. Try again if not freeday
+2022-12-26	No course entries on this day

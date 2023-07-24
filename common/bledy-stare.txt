@@ -1,0 +1,6 @@
+nieposortowane bnppraribas (tzn godziny w dniu mogły być nieposortowane)
+
+brak daty 2010-01-06 w getin-dewizy
+
+w starych kursach peako brakuje 317 dat (w zakresie dat starego pliku).
+	w nowym pliku już są, ale nadal nie ma pewności że są wszystkie notowania w każdym dniu. Natomiast w każdym dniu jest przynajmniej 1 notowanie, chyba że jest napisane inaczej w pliku FAILS

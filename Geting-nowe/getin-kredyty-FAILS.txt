@@ -1,0 +1,5 @@
+2015-01-22	More than one hour found: [00:00, 08:54]
+2019-01-03	More than one hour found: [00:00, 16:30]
+2019-08-22	More than one hour found: [09:59, 17:01]
+2019-08-23	More than one hour found: [00:00, 10:00]
+2019-10-30	More than one hour found: [00:00, 16:26, 16:46]
